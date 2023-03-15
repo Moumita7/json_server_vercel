@@ -1,6 +1,9 @@
 {
   "posts": [
     { "name":"priya" ,"price":243}
+  ],
+  "car":[
+    {"name":"kkk","pp":33}
   ]
   
 }
