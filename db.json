@@ -1,10 +1,10 @@
 {
-  "posts": [
-    { "name":"priya" ,"price":243}
+  "users": [
+  
   ],
-  "car":[
-    {"name":"kkk","pp":33}
-  ],
-  "inventoryData":[]
+  "hotels":[
+  
+  ]
+
   
 }
