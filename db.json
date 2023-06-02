@@ -5,7 +5,7 @@
   "hotels":[
   
   ],
-  "books": [
+  "bookss": [
     {
       "id": 1,
       "no_of_chapters": 6,
@@ -207,7 +207,250 @@
       ]
     }
   ],
-  "cartItem":[]
+  "cartItem":[],
+  "books": [
+    {
+      "_id": "64724d596d7074ed230cb17b",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 15,
+      "image": [
+        "https://kbimages1-a.akamaihd.net/5addc4c9-fbc1-42d7-a79f-cec7619d4b23/1200/1200/False/the-great-gatsby-a-novel-1.jpg"
+      ],
+      "category": "Classic",
+      "description": "A story of the Jazz Age and the American Dream.",
+      "createdAt": "2023-06-02T06:49:51.885Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb17c",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 12,
+      "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+      ],
+      "category": "Classic",
+      "description": "A powerful story of racial injustice and the loss of innocence.",
+      "createdAt": "2023-06-02T06:49:51.886Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb17d",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 10,
+      "image": [
+        "https://www.bookgeeks.in/wp-content/uploads/2021/07/1984-by-George-Orwell-1-1200x1963.jpg"
+      ],
+      "category": "Dystopian",
+      "description": "A chilling vision of a totalitarian society.",
+      "createdAt": "2023-06-02T06:49:51.886Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb17e",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 18,
+      "image": [
+        "https://m.media-amazon.com/images/I/91eKRbuhgaL.jpg"
+      ],
+      "category": "Romance",
+      "description": "A classic tale of love and societal expectations.",
+      "createdAt": "2023-06-02T06:49:51.886Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb17f",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 20,
+      "image": [
+        "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "category": "Fantasy",
+      "description": "An epic adventure in the world of Middle-earth.",
+      "createdAt": "2023-06-02T06:49:51.886Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb180",
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "price": 14,
+      "image": [
+        "https://kbimages1-a.akamaihd.net/5addc4c9-fbc1-42d7-a79f-cec7619d4b23/1200/1200/False/the-great-gatsby-a-novel-1.jpg"
+      ],
+      "category": "Modernist",
+      "description": "A pioneering novel of stream-of-consciousness narrative.",
+      "createdAt": "2023-06-02T06:49:51.886Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb181",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 13,
+      "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+      ],
+      "category": "Coming-of-age",
+      "description": "A story of teenage angst and rebellion.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb182",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "price": 17,
+      "image": [
+        "https://www.bookgeeks.in/wp-content/uploads/2021/07/1984-by-George-Orwell-1-1200x1963.jpg"
+      ],
+      "category": "Adventure",
+      "description": "The epic tale of Captain Ahab's pursuit of the great white whale.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb183",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "price": 25,
+      "image": [
+        "https://kbimages1-a.akamaihd.net/7a557cb3-f72a-47c3-992b-951c9566e4d4/1200/1200/False/the-fellowship-of-the-ring-the-lord-of-the-rings-book-1-1.jpg"
+      ],
+      "category": "Fantasy",
+      "description": "A monumental fantasy trilogy in a richly imagined world.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb184",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "price": 11,
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/krz97rk0/book/y/b/o/brave-new-world-original-imag5mn9m4kazhyc.jpeg?q=70"
+      ],
+      "category": "Dystopian",
+      "description": "A dystopian vision of a society controlled by technology and consumerism.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb185",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "price": 16,
+      "image": [
+        "https://m.media-amazon.com/images/I/71hCBEMpQ0L._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "category": "Gothic",
+      "description": "The classic tale of a scientist's creation turning against him.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb186",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 12,
+      "image": [
+        "https://m.media-amazon.com/images/I/51FXs5gTmdL._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "category": "Fiction",
+      "description": "A mystical story about finding one's personal legend.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb187",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "price": 14,
+      "image": [
+        "https://m.media-amazon.com/images/I/915u1KhUyWL.jpg"
+      ],
+      "category": "Epic",
+      "description": "The legendary Greek epic of Odysseus' journey back home.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb188",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 19,
+      "image": [
+        "https://m.media-amazon.com/images/I/71u-cpucTRL._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "category": "Fantasy",
+      "description": "The magical beginning of the Harry Potter series.",
+      "createdAt": "2023-06-02T06:49:51.887Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb189",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "price": 15,
+      "image": [
+        "https://m.media-amazon.com/images/I/71ZpShPyThL.jpg"
+      ],
+      "category": "Gothic",
+      "description": "A haunting story of vanity, hedonism, and eternal youth.",
+      "createdAt": "2023-06-02T06:49:51.888Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb18a",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "price": 13,
+      "image": [
+        "https://www.bookgeeks.in/wp-content/uploads/2017/04/the-girl-with-the-dragon-tattoo-1200x1973.jpg"
+      ],
+      "category": "Mystery",
+      "description": "A gripping thriller centered around a complex investigation.",
+      "createdAt": "2023-06-02T06:49:51.888Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb18b",
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "price": 22,
+      "image": [
+        "https://upload.wikimedia.org/wikipedia/en/c/cb/The_Chronicles_of_Narnia_box_set_cover.jpg"
+      ],
+      "category": "Fantasy",
+      "description": "A beloved series set in the magical world of Narnia.",
+      "createdAt": "2023-06-02T06:49:51.888Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb18c",
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "price": 16,
+      "image": [
+        "https://m.media-amazon.com/images/I/71O7XjXaMhL.jpg"
+      ],
+      "category": "Modernist",
+      "description": "A novel that captures the disillusionment of the Lost Generation.",
+      "createdAt": "2023-06-02T06:49:51.888Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb18d",
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "price": 21,
+      "image": [
+        "https://m.media-amazon.com/images/I/81mUS+-9ZmL.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "An epic tale set during the American Civil War and Reconstruction.",
+      "createdAt": "2023-06-02T06:49:51.888Z"
+    },
+    {
+      "_id": "64724d596d7074ed230cb18e",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "price": 14,
+      "image": [
+        "https://m.media-amazon.com/images/I/81IzbD2IiIL._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "A story of friendship, betrayal, and redemption in Afghanistan.",
+      "createdAt": "2023-06-02T06:49:51.888Z"
+    }
+  ],
+  "bookCount": 20
 
   
 }
