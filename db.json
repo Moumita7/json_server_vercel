@@ -5,7 +5,7 @@
   "hotels":[
   
   ],
-  "bookss": [
+  "books": [
     {
       "id": 1,
       "no_of_chapters": 6,
@@ -208,7 +208,7 @@
     }
   ],
   "cartItem":[],
-  "books": [
+  "bookss": [
     {
       "_id": "64724d596d7074ed230cb17b",
       "title": "The Great Gatsby",
@@ -449,8 +449,7 @@
       "description": "A story of friendship, betrayal, and redemption in Afghanistan.",
       "createdAt": "2023-06-02T06:49:51.888Z"
     }
-  ],
-  "bookCount": 20
+  ]
 
   
 }
